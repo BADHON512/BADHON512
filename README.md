@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern stack deeply**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-b-eight.vercel.app/](https://portfolio-b-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-badhon.vercel.app/](https://portfolio-badhon.vercel.app/)
 
 - 📝 I regularly write articles on [A passionate full stack developer from bangladesh](A passionate full stack developer from bangladesh)
 
